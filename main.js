@@ -6,7 +6,7 @@ var config = {
     projectId: "ecx-training-d34f5",
     storageBucket: "",
     messagingSenderId: "",
-    appId: ""
+    appId: "1:589483743601:web:bdb20805900cb10882bed0"
 };
 firebase.initializeApp(config);
 
