@@ -1,12 +1,12 @@
 // Paste the code from Firebase
 var config = {
     apiKey: "",
-    authDomain: "https://ect-training.web.app/",
-    databaseURL: "https://ect-training-default-rtdb.firebaseio.com/",
-    projectId: "ect-training",
+    authDomain: "https://training-ecx-com-et.web.app/",
+    databaseURL: "https://training-ecx-com-et-default-rtdb.firebaseio.com/",
+    projectId: "training-ecx-com-et",
     storageBucket: "",
     messagingSenderId: "",
-    appId: "1:1072509775461:web:8fbfefae3b9bc68baee08c"
+    appId: "1:505618737397:web:bb4f02f9244d91e7fbfdbc"
 };
 firebase.initializeApp(config);
 
